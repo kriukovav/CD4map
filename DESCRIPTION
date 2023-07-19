@@ -1,0 +1,16 @@
+Package: CD4map
+Type: Package
+Title: Annotation of helper T cells in scRNA-Seq data
+Version: 0.1.0
+Author: Valeriia Kriukova
+Maintainer: The package maintainer <yourself@somewhere.net>
+Description: This package provides wrapper functions to annotate helper T cells in scRNA-Seq data based on reference dataset to be published by Chudakov lab
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    dplyr,
+    ggplot2,
+    Seurat,
+    SeuratObject
+RoxygenNote: 7.2.3
