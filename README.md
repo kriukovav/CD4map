@@ -7,7 +7,7 @@ install.packages('devtools')
 devtools::install_github("kriukovav/CD4map")
 ```
 ### Important: please download the reference
-Please download the reference dataset, available from [here](https://cloud.itm-rsmu.ru/s/PDp6qD72RP923Pd), and save it inside the "data" subdirectory of the CD4map package localy on your device. To find the location of the CD4map package, simply run
+Please download the reference dataset full_reference_return_model.rds, available from [here](https://figshare.com/projects/T_helper_subsets_Kriukova_et_al_/173466), and save it inside the "data" subdirectory of the CD4map package localy on your device. To find the location of the CD4map package, simply run
 
 ```R
 .libPaths()
